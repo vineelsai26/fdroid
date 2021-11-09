@@ -3,4 +3,4 @@ tmp
 repo/status
 srclibs
 config.yml
-key.jks
+keystore.p12
